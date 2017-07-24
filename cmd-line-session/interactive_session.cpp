@@ -1,4 +1,4 @@
-#include <hanabi_game.hpp>
+#include <../simulator/hanabi_game.hpp>
 #include <interactive_session.hpp>
 #include <iostream>
 

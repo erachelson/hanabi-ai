@@ -1,4 +1,4 @@
-#include <hanabi_game.hpp>
+#include <../simulator/hanabi_game.hpp>
 #include <iostream>
 
 void line_in_box(int size, char fill, const std::string& text) {

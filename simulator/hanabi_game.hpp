@@ -1,6 +1,7 @@
 #ifndef HANABI_GAME_HPP_
 #define HANABI_GAME_HPP_
 
+#include <array>
 #include <vector>
 #include <algorithm>
 #include <string>
